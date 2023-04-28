@@ -1,0 +1,6 @@
+- [[Open Source Society University]]: https://github.com/ossu/computer-science#readme
+- Javascript algorithms: https://github.com/trekhleb/javascript-algorithms#readme
+- How web works: https://github.com/vasanthk/how-web-works#readme
+- Awesome self-hosted: https://github.com/awesome-selfhosted/awesome-selfhosted#readme
+- Youtube channels (by topic): https://github.com/PrejudiceNeutrino/YouTube_Channels
+- Handson ML3: https://github.com/ageron/handson-ml3#readme
